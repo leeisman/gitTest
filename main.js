@@ -95,3 +95,6 @@ function squash4(params) {
 function squash5(params) {
     
 }
+function squash6(params) {
+    
+}
