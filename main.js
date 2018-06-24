@@ -42,9 +42,7 @@ function newTest() {
     //
 }
 
-function newCheck() {
-    //
-}
+
 
 
 
