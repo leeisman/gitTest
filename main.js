@@ -81,3 +81,7 @@ function test1 (){
 function test2(params) {
     
 }
+
+function test3(params) {
+    
+}
