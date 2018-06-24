@@ -62,9 +62,6 @@ function one() {
 
 }
 
-function two() {
-
-}
 
 
 
