@@ -46,22 +46,5 @@ function newCheck() {
     //
 }
 
-function new1() {
-    alert(1);
-}
-
-function new1() {
-    alert('rebase');
-}
-
-function new2() {
-    alert('rebase')
-}
-
-
-
-
-
-
 
 
