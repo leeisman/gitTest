@@ -10,21 +10,6 @@ function pp(e) {
     alert(1);
 }
 
-function pp() {
-
-}
-
-function pp() {
-
-}
-
-function pp(p) {
-
-}
-
-
-
-
 
 
 
