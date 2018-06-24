@@ -34,9 +34,6 @@ function pp() {
 
 }
 
-function show() {
-    alert('show1')
-}
 
 
 
