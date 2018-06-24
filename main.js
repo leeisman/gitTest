@@ -58,9 +58,6 @@ function new2() {
     alert('rebase')
 }
 
-function one() {
-
-}
 
 
 
