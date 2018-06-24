@@ -89,3 +89,6 @@ function squash2(params) {
 function squash3(params) {
     
 }
+function squash4(params) {
+    
+}
