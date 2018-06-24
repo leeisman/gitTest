@@ -70,11 +70,6 @@ function three() {
 
 }
 
-function newFeature1111() {
-    alert('newFeature1111')
-}
 
-function test1 (){
 
-}
 
