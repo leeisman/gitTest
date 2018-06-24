@@ -34,17 +34,9 @@ function pp() {
 
 }
 
-function show() {
-    alert('show1')
-}
 
-function newTest() {
-    //
-}
 
-function newCheck() {
-    //
-}
+
 
 
 
