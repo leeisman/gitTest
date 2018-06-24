@@ -77,3 +77,7 @@ function newFeature1111() {
 function test1 (){
 
 }
+
+function squash(params) {
+    
+}
