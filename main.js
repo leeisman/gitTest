@@ -77,7 +77,3 @@ function newFeature1111() {
 function gitTest(){
     alert('gitTest')
 }
-
-function twofunction(){
-
-}
