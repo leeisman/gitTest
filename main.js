@@ -86,6 +86,3 @@ function squash2(params) {
     
 }
 
-function squash3(params) {
-    
-}
