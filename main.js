@@ -38,9 +38,6 @@ function show() {
     alert('show1')
 }
 
-function newTest() {
-    //
-}
 
 
 
