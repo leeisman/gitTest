@@ -81,3 +81,7 @@ function test1 (){
 function squash(params) {
     
 }
+
+function squash2(params) {
+    
+}
