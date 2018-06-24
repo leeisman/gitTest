@@ -78,8 +78,3 @@ function test1 (){
 
 }
 
-function squash(params) {
-    
-}
-
-
