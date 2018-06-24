@@ -73,3 +73,15 @@ function three() {
 function newFeature1111() {
     alert('newFeature1111')
 }
+
+function test1 (){
+
+}
+
+function test2(params) {
+    
+}
+
+function test3(params) {
+    
+}
